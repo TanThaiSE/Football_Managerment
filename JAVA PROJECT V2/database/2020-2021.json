@@ -1,0 +1,823 @@
+{
+    "Season": "2020_2021",
+    "Club": [
+        {
+            "Name": "Hoàng Anh Gia Lai",
+            "Stadium": "Pleiku",
+            "Player": [
+                {
+                    "name": "Nguyễn Hữu Thủy",
+                    "position": "MidFielder",
+                    "dob": "1989-04-01"
+                },
+                {
+                    "name": "Trần Minh Dũng",
+                    "position": "Forward",
+                    "dob": "1986-10-01"
+                },
+                {
+                    "name": "Đinh Trung Trí",
+                    "position": "Defender",
+                    "dob": "1981-05-27"
+                },
+                {
+                    "name": "Trần Minh Tiên",
+                    "position": "MidFielder",
+                    "dob": "1989-10-08"
+                },
+                {
+                    "name": "Võ Hoàng Huy",
+                    "position": "GoalKeeper",
+                    "dob": "1989-11-09"
+                },
+                {
+                    "name": "Đào Viết Vinh",
+                    "position": "Forward",
+                    "dob": "1986-09-23"
+                },
+                {
+                    "name": "Đào Nguyên Chí",
+                    "position": "Forward",
+                    "dob": "1983-03-24"
+                },
+                {
+                    "name": "Tống Hữu Vinh",
+                    "position": "Defender",
+                    "dob": "1987-03-19"
+                },
+                {
+                    "name": "Lê Viết Phước",
+                    "position": "Forward",
+                    "dob": "1975-05-06"
+                },
+                {
+                    "name": "Lê Minh Chí",
+                    "position": "Defender",
+                    "dob": "1983-06-16"
+                },
+                {
+                    "name": "Cao Minh Chí",
+                    "position": "Forward",
+                    "dob": "1986-08-23"
+                },
+                {
+                    "name": "Lý Viết Yên",
+                    "position": "Defender",
+                    "dob": "1977-05-20"
+                },
+                {
+                    "name": "Đinh Minh Huy",
+                    "position": "GoalKeeper",
+                    "dob": "1987-04-28"
+                },
+                {
+                    "name": "Bùi Xuân Thủy",
+                    "position": "MidFielder",
+                    "dob": "1989-06-27"
+                }
+            ],
+            "Coach": "Lee Tae Hoon",
+            "ClubManager": "Đoàn Nguyên Đức"
+        },
+        {
+            "Name": "Becamex Bình Dương",
+            "Stadium": "Gò Đậu",
+            "Player": [
+                {
+                    "name": "Lý Xuân Phước",
+                    "position": "GoalKeeper",
+                    "dob": "1995-10-12"
+                },
+                {
+                    "name": "Bùi Nguyên Lực",
+                    "position": "Defender",
+                    "dob": "1977-09-11"
+                },
+                {
+                    "name": "Đinh Văn Duy",
+                    "position": "Forward",
+                    "dob": "1979-09-13"
+                },
+                {
+                    "name": "Nguyễn Viết Hòa",
+                    "position": "Forward",
+                    "dob": "1973-10-21"
+                },
+                {
+                    "name": "Lý Trung Mai",
+                    "position": "Defender",
+                    "dob": "1971-03-26"
+                },
+                {
+                    "name": "Cao Quốc Tân",
+                    "position": "Forward",
+                    "dob": "1995-08-16"
+                },
+                {
+                    "name": "Hoàng Minh Vinh",
+                    "position": "MidFielder",
+                    "dob": "1981-10-02"
+                },
+                {
+                    "name": "Bùi Quốc Huy",
+                    "position": "Defender",
+                    "dob": "1988-06-15"
+                },
+                {
+                    "name": "Đinh Văn Văn",
+                    "position": "Forward",
+                    "dob": "1993-04-15"
+                },
+                {
+                    "name": "Cao Hữu Hòa",
+                    "position": "GoalKeeper",
+                    "dob": "1983-08-20"
+                },
+                {
+                    "name": "Bùi Hữu Mai",
+                    "position": "Defender",
+                    "dob": "1997-08-02"
+                },
+                {
+                    "name": "Đào Minh Duy",
+                    "position": "MidFielder",
+                    "dob": "1972-09-23"
+                },
+                {
+                    "name": "Trần Minh Chí",
+                    "position": "MidFielder",
+                    "dob": "1985-10-23"
+                },
+                {
+                    "name": "Bùi Văn Chí",
+                    "position": "Forward",
+                    "dob": "1983-08-19"
+                }
+            ],
+            "Coach": "Phan Thanh Hùng",
+            "ClubManager": "Hồ Hồng Thạch"
+        },
+        {
+            "Name": "SHB Đà Nẵng",
+            "Stadium": "Hòa Xuân",
+            "Player": [
+                {
+                    "name": "Hoàng Quang Phước",
+                    "position": "MidFielder",
+                    "dob": "1999-06-02"
+                },
+                {
+                    "name": "Lý Hoàng Chí",
+                    "position": "GoalKeeper",
+                    "dob": "1993-04-05"
+                },
+                {
+                    "name": "Lê Quang Chí",
+                    "position": "Defender",
+                    "dob": "1982-05-28"
+                },
+                {
+                    "name": "Võ Minh Phước",
+                    "position": "MidFielder",
+                    "dob": "1991-04-25"
+                },
+                {
+                    "name": "Lý Xuân Tiên",
+                    "position": "GoalKeeper",
+                    "dob": "1998-02-27"
+                },
+                {
+                    "name": "Đào Viết Huy",
+                    "position": "MidFielder",
+                    "dob": "1980-03-17"
+                },
+                {
+                    "name": "Văn Trung Tiên",
+                    "position": "Forward",
+                    "dob": "1991-03-29"
+                },
+                {
+                    "name": "Tống Minh Huy",
+                    "position": "MidFielder",
+                    "dob": "1992-03-22"
+                },
+                {
+                    "name": "Văn Quốc Trí",
+                    "position": "GoalKeeper",
+                    "dob": "1984-05-29"
+                },
+                {
+                    "name": "Văn Viết Yên",
+                    "position": "Defender",
+                    "dob": "1990-06-17"
+                },
+                {
+                    "name": "Lê Quốc Trí",
+                    "position": "GoalKeeper",
+                    "dob": "1987-08-04"
+                },
+                {
+                    "name": "Võ Viết Trí",
+                    "position": "Defender",
+                    "dob": "1981-05-12"
+                },
+                {
+                    "name": "Lê Quốc Thủy",
+                    "position": "GoalKeeper",
+                    "dob": "1980-03-19"
+                },
+                {
+                    "name": "Tống Hoàng Tân",
+                    "position": "Forward",
+                    "dob": "1986-03-26"
+                }
+            ],
+            "Coach": "Lê Huỳnh Đức",
+            "ClubManager": "Bùi Xuân Hòa"
+        },
+        {
+            "Name": "Tp Hồ Chí Minh",
+            "Stadium": "Thống Nhất",
+            "Player": [
+                {
+                    "name": "Đinh Văn Hòa",
+                    "position": "Forward",
+                    "dob": "1984-11-03"
+                },
+                {
+                    "name": "Đinh Quốc Dũng",
+                    "position": "Forward",
+                    "dob": "1975-04-05"
+                },
+                {
+                    "name": "Nguyễn Quang Mai",
+                    "position": "Defender",
+                    "dob": "1989-02-21"
+                },
+                {
+                    "name": "Lý Xuân Chí",
+                    "position": "Forward",
+                    "dob": "1999-01-08"
+                },
+                {
+                    "name": "Cao Hoàng Lực",
+                    "position": "Forward",
+                    "dob": "1982-01-10"
+                },
+                {
+                    "name": "Lý Xuân Văn",
+                    "position": "Defender",
+                    "dob": "1989-08-30"
+                },
+                {
+                    "name": "Đinh Quang Phước",
+                    "position": "MidFielder",
+                    "dob": "1997-01-10"
+                },
+                {
+                    "name": "Lý Quốc Dũng",
+                    "position": "GoalKeeper",
+                    "dob": "1993-01-01"
+                },
+                {
+                    "name": "Lý Trung Trí",
+                    "position": "GoalKeeper",
+                    "dob": "1990-06-10"
+                },
+                {
+                    "name": "Bùi Chí Phước",
+                    "position": "Forward",
+                    "dob": "1998-07-24"
+                },
+                {
+                    "name": "Văn Minh Huy",
+                    "position": "Forward",
+                    "dob": "1976-02-27"
+                },
+                {
+                    "name": "Đinh Trung Mai",
+                    "position": "MidFielder",
+                    "dob": "1982-08-19"
+                },
+                {
+                    "name": "Bùi Minh Yên",
+                    "position": "Defender",
+                    "dob": "1999-10-09"
+                },
+                {
+                    "name": "Nguyễn Trung Văn",
+                    "position": "Forward",
+                    "dob": "1984-10-07"
+                }
+            ],
+            "Coach": "Alexandre Polking",
+            "ClubManager": "Nguyễn Hữu Thắng"
+        },
+        {
+            "Name": "Hà Nội",
+            "Stadium": "Hàng Đẫy",
+            "Player": [
+                {
+                    "name": "Tống Quang Tân",
+                    "position": "Defender",
+                    "dob": "1970-04-19"
+                },
+                {
+                    "name": "Nguyễn Xuân Tiên",
+                    "position": "Defender",
+                    "dob": "1989-10-19"
+                },
+                {
+                    "name": "Đinh Chí Mai",
+                    "position": "Defender",
+                    "dob": "1995-02-20"
+                },
+                {
+                    "name": "Lê Văn Duy",
+                    "position": "Defender",
+                    "dob": "1988-08-16"
+                },
+                {
+                    "name": "Đào Chí Anh",
+                    "position": "Defender",
+                    "dob": "1986-01-29"
+                },
+                {
+                    "name": "Bùi Xuân Chí",
+                    "position": "Defender",
+                    "dob": "1971-03-17"
+                },
+                {
+                    "name": "Võ Minh Duy",
+                    "position": "Defender",
+                    "dob": "1989-08-16"
+                },
+                {
+                    "name": "Lê Chí Hòa",
+                    "position": "MidFielder",
+                    "dob": "1984-08-09"
+                },
+                {
+                    "name": "Đinh Chí Thủy",
+                    "position": "MidFielder",
+                    "dob": "1980-01-11"
+                },
+                {
+                    "name": "Đinh Xuân Anh",
+                    "position": "MidFielder",
+                    "dob": "1989-10-15"
+                },
+                {
+                    "name": "Đào Hoàng Văn",
+                    "position": "Defender",
+                    "dob": "1983-01-20"
+                },
+                {
+                    "name": "Lê Trung Tiên",
+                    "position": "GoalKeeper",
+                    "dob": "1972-01-24"
+                },
+                {
+                    "name": "Đinh Nguyên Anh",
+                    "position": "MidFielder",
+                    "dob": "1989-01-14"
+                },
+                {
+                    "name": "Hoàng Trung Hòa",
+                    "position": "GoalKeeper",
+                    "dob": "1980-05-20"
+                }
+            ],
+            "Coach": "Chu Đình Nghiêm",
+            "ClubManager": "Đỗ Vinh Quang"
+        },
+        {
+            "Name": "Hải Phòng FC",
+            "Stadium": "Lạch Tray",
+            "Player": [
+                {
+                    "name": "Văn Minh Vinh",
+                    "position": "MidFielder",
+                    "dob": "1989-04-10"
+                },
+                {
+                    "name": "Văn Chí Anh",
+                    "position": "GoalKeeper",
+                    "dob": "1986-02-27"
+                },
+                {
+                    "name": "Đào Viết Duy",
+                    "position": "MidFielder",
+                    "dob": "1999-10-05"
+                },
+                {
+                    "name": "Văn Hoàng Trí",
+                    "position": "Defender",
+                    "dob": "1993-03-09"
+                },
+                {
+                    "name": "Bùi Quang Trí",
+                    "position": "Defender",
+                    "dob": "1982-03-23"
+                },
+                {
+                    "name": "Hoàng Hữu Anh",
+                    "position": "Forward",
+                    "dob": "1993-07-01"
+                },
+                {
+                    "name": "Võ Trung Mai",
+                    "position": "Forward",
+                    "dob": "1989-10-16"
+                },
+                {
+                    "name": "Văn Viết Trí",
+                    "position": "Defender",
+                    "dob": "1985-11-07"
+                },
+                {
+                    "name": "Bùi Quang Dũng",
+                    "position": "GoalKeeper",
+                    "dob": "1979-09-19"
+                },
+                {
+                    "name": "Cao Minh Trí",
+                    "position": "Defender",
+                    "dob": "1991-06-20"
+                },
+                {
+                    "name": "Tống Hoàng Phước",
+                    "position": "Forward",
+                    "dob": "1994-04-17"
+                },
+                {
+                    "name": "Tống Văn Yên",
+                    "position": "MidFielder",
+                    "dob": "1987-04-04"
+                },
+                {
+                    "name": "Đinh Quốc Chí",
+                    "position": "Forward",
+                    "dob": "1983-09-13"
+                },
+                {
+                    "name": "Bùi Minh Chí",
+                    "position": "MidFielder",
+                    "dob": "1992-06-02"
+                }
+            ],
+            "Coach": "Phạm Anh Tuấn",
+            "ClubManager": "Lê Xuân Hải"
+        },
+        {
+            "Name": "Sana Khánh Hòa",
+            "Stadium": "Khánh Hòa",
+            "Player": [
+                {
+                    "name": "Văn Hoàng Lực",
+                    "position": "Forward",
+                    "dob": "1997-07-30"
+                },
+                {
+                    "name": "Lý Quốc Huy",
+                    "position": "Forward",
+                    "dob": "1994-11-23"
+                },
+                {
+                    "name": "Đinh Quang Chí",
+                    "position": "MidFielder",
+                    "dob": "1989-07-08"
+                },
+                {
+                    "name": "Võ Trung Lực",
+                    "position": "Defender",
+                    "dob": "1981-03-16"
+                },
+                {
+                    "name": "Văn Quang Anh",
+                    "position": "Defender",
+                    "dob": "1992-02-24"
+                },
+                {
+                    "name": "Bùi Viết Văn",
+                    "position": "Forward",
+                    "dob": "1979-06-27"
+                },
+                {
+                    "name": "Trần Văn Phước",
+                    "position": "Forward",
+                    "dob": "1992-09-10"
+                },
+                {
+                    "name": "Bùi Trung Mai",
+                    "position": "MidFielder",
+                    "dob": "1990-04-14"
+                },
+                {
+                    "name": "Lý Viết Huy",
+                    "position": "MidFielder",
+                    "dob": "1987-07-20"
+                },
+                {
+                    "name": "Lê Quốc Yên",
+                    "position": "GoalKeeper",
+                    "dob": "1976-04-01"
+                },
+                {
+                    "name": "Lê Viết Duy",
+                    "position": "MidFielder",
+                    "dob": "1998-05-02"
+                },
+                {
+                    "name": "Tống Hữu Duy",
+                    "position": "Forward",
+                    "dob": "1982-08-25"
+                },
+                {
+                    "name": "Cao Nguyên Mai",
+                    "position": "Defender",
+                    "dob": "1986-09-04"
+                },
+                {
+                    "name": "Văn Hữu Vinh",
+                    "position": "MidFielder",
+                    "dob": "1983-10-03"
+                }
+            ],
+            "Coach": "Võ Đình Tân",
+            "ClubManager": "Nguyễn Thanh Hải"
+        },
+        {
+            "Name": "Sông Lam Nghệ An",
+            "Stadium": "Vinh",
+            "Player": [
+                {
+                    "name": "Lý Quốc Yên",
+                    "position": "Defender",
+                    "dob": "1993-11-16"
+                },
+                {
+                    "name": "Đào Chí Dũng",
+                    "position": "GoalKeeper",
+                    "dob": "1980-09-03"
+                },
+                {
+                    "name": "Lê Trung Duy",
+                    "position": "Forward",
+                    "dob": "1997-08-23"
+                },
+                {
+                    "name": "Võ Trung Văn",
+                    "position": "MidFielder",
+                    "dob": "1992-06-08"
+                },
+                {
+                    "name": "Lê Nguyên Dũng",
+                    "position": "MidFielder",
+                    "dob": "1986-06-14"
+                },
+                {
+                    "name": "Hoàng Quốc Tân",
+                    "position": "Forward",
+                    "dob": "1987-06-09"
+                },
+                {
+                    "name": "Lê Trung Vinh",
+                    "position": "Defender",
+                    "dob": "1980-03-12"
+                },
+                {
+                    "name": "Trần Minh Vinh",
+                    "position": "MidFielder",
+                    "dob": "1975-09-09"
+                },
+                {
+                    "name": "Bùi Hoàng Tân",
+                    "position": "MidFielder",
+                    "dob": "2001-05-14"
+                },
+                {
+                    "name": "Hoàng Văn Hòa",
+                    "position": "Defender",
+                    "dob": "1998-01-21"
+                },
+                {
+                    "name": "Văn Quốc Thủy",
+                    "position": "Defender",
+                    "dob": "1983-02-23"
+                },
+                {
+                    "name": "Lý Xuân Dũng",
+                    "position": "MidFielder",
+                    "dob": "1981-09-13"
+                },
+                {
+                    "name": "Văn Xuân Mai",
+                    "position": "GoalKeeper",
+                    "dob": "1992-05-08"
+                },
+                {
+                    "name": "Đào Xuân Mai",
+                    "position": "GoalKeeper",
+                    "dob": "1975-03-26"
+                }
+            ],
+            "Coach": "Ngô Quang Trường",
+            "ClubManager": "Nguyễn Hồng Thanh"
+        },
+        {
+            "Name": "Nam Định FC",
+            "Stadium": "Thiên Trường",
+            "Player": [
+                {
+                    "name": "Văn Quốc Huy",
+                    "position": "Forward",
+                    "dob": "1975-02-26"
+                },
+                {
+                    "name": "Tống Quang Mai",
+                    "position": "GoalKeeper",
+                    "dob": "1982-04-24"
+                },
+                {
+                    "name": "Bùi Hữu Chí",
+                    "position": "GoalKeeper",
+                    "dob": "1986-02-12"
+                },
+                {
+                    "name": "Đào Hoàng Phước",
+                    "position": "GoalKeeper",
+                    "dob": "1984-11-27"
+                },
+                {
+                    "name": "Võ Viết Dũng",
+                    "position": "Defender",
+                    "dob": "1986-03-20"
+                },
+                {
+                    "name": "Lê Hoàng Thủy",
+                    "position": "Defender",
+                    "dob": "1988-05-26"
+                },
+                {
+                    "name": "Đào Nguyên Huy",
+                    "position": "GoalKeeper",
+                    "dob": "1987-03-07"
+                },
+                {
+                    "name": "Lê Quang Chí",
+                    "position": "MidFielder",
+                    "dob": "1988-10-02"
+                },
+                {
+                    "name": "Hoàng Minh Vinh",
+                    "position": "MidFielder",
+                    "dob": "1983-10-03"
+                },
+                {
+                    "name": "Tống Trung Vinh",
+                    "position": "GoalKeeper",
+                    "dob": "1990-04-22"
+                },
+                {
+                    "name": "Lê Xuân Văn",
+                    "position": "MidFielder",
+                    "dob": "1995-11-28"
+                },
+                {
+                    "name": "Đinh Văn Tân",
+                    "position": "Forward",
+                    "dob": "1981-04-20"
+                },
+                {
+                    "name": "Cao Hữu Huy",
+                    "position": "MidFielder",
+                    "dob": "1974-07-11"
+                },
+                {
+                    "name": "Trần Nguyên Huy",
+                    "position": "GoalKeeper",
+                    "dob": "1978-01-30"
+                }
+            ],
+            "Coach": "Nguyễn Tân Anh",
+            "ClubManager": "Phạm Hồng Phú"
+        },
+        {
+            "Name": "Quảng Nam",
+            "Stadium": "Tam Kỳ",
+            "Player": [
+                {
+                    "name": "Trần Nguyên Huy",
+                    "position": "Defender",
+                    "dob": "1988-10-03"
+                },
+                {
+                    "name": "Nguyễn Hữu Tân",
+                    "position": "MidFielder",
+                    "dob": "1984-09-25"
+                },
+                {
+                    "name": "Võ Nguyên Trí",
+                    "position": "GoalKeeper",
+                    "dob": "1991-11-23"
+                },
+                {
+                    "name": "Đào Văn Tiên",
+                    "position": "GoalKeeper",
+                    "dob": "1986-04-21"
+                },
+                {
+                    "name": "Văn Chí Vinh",
+                    "position": "Defender",
+                    "dob": "1989-01-27"
+                },
+                {
+                    "name": "Tống Nguyên Vinh",
+                    "position": "Forward",
+                    "dob": "1983-10-11"
+                },
+                {
+                    "name": "Tống Hữu Tiên",
+                    "position": "Defender",
+                    "dob": "1985-09-02"
+                },
+                {
+                    "name": "Nguyễn Hữu Tân",
+                    "position": "Defender",
+                    "dob": "1998-06-19"
+                },
+                {
+                    "name": "Hoàng Văn Thủy",
+                    "position": "Defender",
+                    "dob": "1989-11-19"
+                },
+                {
+                    "name": "Lý Quốc Hòa",
+                    "position": "Defender",
+                    "dob": "1987-03-05"
+                },
+                {
+                    "name": "Lê Xuân Tân",
+                    "position": "MidFielder",
+                    "dob": "1974-11-21"
+                },
+                {
+                    "name": "Đinh Văn Dũng",
+                    "position": "Forward",
+                    "dob": "1987-01-07"
+                },
+                {
+                    "name": "Bùi Quốc Phước",
+                    "position": "GoalKeeper",
+                    "dob": "1983-02-05"
+                },
+                {
+                    "name": "Nguyễn Trung Duy",
+                    "position": "Forward",
+                    "dob": "1988-07-07"
+                }
+            ],
+            "Coach": "Đào Quang Hùng",
+            "ClubManager": "Nguyễn Húp"
+        }
+    ],
+    "Match_Day": [
+        "2021-01-09",
+        "2021-01-10",
+        "2021-01-16",
+        "2021-01-17",
+        "2021-01-23",
+        "2021-01-24",
+        "2021-01-30",
+        "2021-01-31",
+        "2021-02-06",
+        "2021-02-07",
+        "2021-02-13",
+        "2021-02-14",
+        "2021-02-20",
+        "2021-02-21",
+        "2021-02-27",
+        "2021-02-28",
+        "2021-03-06",
+        "2021-03-07",
+        "2021-03-13",
+        "2021-03-14",
+        "2021-03-20",
+        "2021-03-21",
+        "2021-03-27",
+        "2021-03-28",
+        "2021-04-03",
+        "2021-04-04",
+        "2021-04-10",
+        "2021-04-11",
+        "2021-04-17",
+        "2021-04-18",
+        "2021-04-24",
+        "2021-04-25",
+        "2021-05-01",
+        "2021-05-02",
+        "2021-05-08",
+        "2021-05-09"
+    ]
+}
